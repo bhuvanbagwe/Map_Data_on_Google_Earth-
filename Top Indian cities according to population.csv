@@ -1,0 +1,398 @@
+City ,City ,Latitude ,Longitude,Country ,Id,Location,State ,NA,Population,NA
+Delhi,Delhi,28.6667,77.2167,India,IN,IND,Delhi,admin,31870000,1356872604
+Mumbai,Mumbai,19.0758,72.8775,India,IN,IND,Mahārāshtra,admin,22186000,1356226629
+Kolkāta,Kolkata,22.5727,88.3639,India,IN,IND,West Bengal,admin,18698000,1356060520
+Bangalore,Bangalore,12.9791,77.5913,India,IN,IND,Karnātaka,admin,13999000,1356410365
+Chennai,Chennai,13.0825,80.275,India,IN,IND,Tamil Nādu,admin,11564000,1356374944
+Hyderābād,Hyderabad,17.3617,78.4747,India,IN,IND,Telangana,admin,9840000,1356871768
+Pune,Pune,18.5196,73.8553,India,IN,IND,Mahārāshtra,,7948000,1356081074
+Ahmedabad,Ahmedabad,23.03,72.58,India,IN,IND,Gujarāt,minor,7717000,1356304381
+Allahābād,Allahabad,25.45,81.85,India,IN,IND,Uttar Pradesh,,5954391,1356718332
+Sūrat,Surat,21.17,72.83,India,IN,IND,Gujarāt,,4875000,1356758738
+Lucknow,Lucknow,26.847,80.947,India,IN,IND,Uttar Pradesh,admin,3382000,1356891790
+Jaipur,Jaipur,26.9167,75.8667,India,IN,IND,Rājasthān,admin,3073350,1356293537
+Cawnpore,Cawnpore,26.4725,80.3311,India,IN,IND,Uttar Pradesh,,2701324,1356575238
+Mirzāpur,Mirzapur,25.15,82.58,India,IN,IND,Uttar Pradesh,,2496970,1356427908
+Nāgpur,Nagpur,21.1539,79.0831,India,IN,IND,Mahārāshtra,,2405665,1356365743
+Ghāziābād,Ghaziabad,28.6667,77.4167,India,IN,IND,Uttar Pradesh,,2375820,1356691871
+Vadodara,Vadodara,22.3,73.2,India,IN,IND,Gujarāt,,2065771,1356705249
+Vishākhapatnam,Vishakhapatnam,17.7333,83.3167,India,IN,IND,Andhra Pradesh,,2035922,1356692563
+Indore,Indore,22.7206,75.8472,India,IN,IND,Madhya Pradesh,,1994397,1356402812
+Thāne,Thane,19.18,72.9633,India,IN,IND,Mahārāshtra,,1886941,1356681152
+Bhopāl,Bhopal,23.25,77.4167,India,IN,IND,Madhya Pradesh,admin,1798218,1356734039
+Patna,Patna,25.61,85.1414,India,IN,IND,Bihār,admin,1684222,1356821429
+Bilāspur,Bilaspur,22.15,82.0167,India,IN,IND,Chhattīsgarh,,1625502,1356820491
+Ludhiāna,Ludhiana,30.9083,75.8486,India,IN,IND,Punjab,,1618879,1356929498
+Āgra,Agra,27.1724,78.0131,India,IN,IND,Uttar Pradesh,,1592000,1356187395
+Kalyān,Kalyan,19.2502,73.1602,India,IN,IND,Mahārāshtra,,1576614,1356172246
+Madurai,Madurai,9.9197,78.1194,India,IN,IND,Tamil Nādu,minor,1561129,1356257289
+Jamshedpur,Jamshedpur,22.8,86.1833,India,IN,IND,Jharkhand,,1558000,1356501259
+Nāsik,Nasik,20,73.7833,India,IN,IND,Mahārāshtra,,1486053,1356562598
+Farīdābād,Faridabad,28.4353,77.3147,India,IN,IND,Haryāna,,1394000,1356013205
+Aurangābād,Aurangabad,19.88,75.32,India,IN,IND,Mahārāshtra,,1371330,1356840670
+Rājkot,Rajkot,22.2969,70.7984,India,IN,IND,Gujarāt,,1335397,1356317190
+Meerut,Meerut,28.99,77.7,India,IN,IND,Uttar Pradesh,,1305429,1356390476
+Jabalpur,Jabalpur,23.1667,79.9333,India,IN,IND,Madhya Pradesh,,1267564,1356115460
+Dhanbād,Dhanbad,23.7928,86.435,India,IN,IND,Jharkhand,,1246000,1356103392
+Vārānasi,Varanasi,25.3189,83.0128,India,IN,IND,Uttar Pradesh,,1198491,1356145782
+Srīnagar,Srinagar,34.0911,74.8061,India,IN,IND,Jammu and Kashmīr,admin,1180570,1356442950
+Amritsar,Amritsar,31.6269,74.877,India,IN,IND,Punjab,,1132383,1356926507
+Alīgarh,Aligarh,27.88,78.08,India,IN,IND,Uttar Pradesh,,1131160,1356076391
+Guwāhāti,Guwahati,26.1722,91.7458,India,IN,IND,Assam,,1116267,1356593800
+Bhilai,Bhilai,21.2186,81.4314,India,IN,IND,Chhattīsgarh,,1097000,1356071083
+Hāora,Haora,22.5736,88.3251,India,IN,IND,West Bengal,,1077075,1356986516
+Rānchi,Ranchi,23.3556,85.3347,India,IN,IND,Jharkhand,admin,1073440,1356110588
+Gwalior,Gwalior,26.215,78.1931,India,IN,IND,Madhya Pradesh,,1069276,1356363967
+Bezwāda,Bezwada,16.5167,80.6167,India,IN,IND,Andhra Pradesh,,1048240,1356807575
+Jodhpur,Jodhpur,26.2944,73.0278,India,IN,IND,Rājasthān,,1033918,1356727084
+Chandīgarh,Chandigarh,30.7353,76.7911,India,IN,IND,Chandīgarh,admin,1026459,1356739179
+Mysore,Mysore,12.3086,76.6531,India,IN,IND,Karnātaka,,1014227,1356779323
+Raipur,Raipur,21.2379,81.6337,India,IN,IND,Chhattīsgarh,admin,1010087,1356374983
+Kota,Kota,25.18,75.83,India,IN,IND,Rājasthān,,1001694,1356820310
+Bareilly,Bareilly,28.364,79.415,India,IN,IND,Uttar Pradesh,,1000000,1356698199
+Coimbatore,Coimbatore,11,76.9667,India,IN,IND,Tamil Nādu,,959823,1356999503
+Solāpur,Solapur,17.6715,75.9104,India,IN,IND,Mahārāshtra,,951558,1356314385
+Trichinopoly,Trichinopoly,10.8269,78.6928,India,IN,IND,Tamil Nādu,,916857,1356884472
+Hubli,Hubli,15.3619,75.1231,India,IN,IND,Karnātaka,,890000,1356102365
+Jalandhar,Jalandhar,31.3256,75.5792,India,IN,IND,Punjab,,873725,1356494816
+Bhubaneshwar,Bhubaneshwar,20.2644,85.8281,India,IN,IND,Odisha,admin,837737,1356140143
+Morādābād,Moradabad,28.8437,78.7548,India,IN,IND,Uttar Pradesh,,787000,1356269375
+Kolhāpur,Kolhapur,16.7,74.2333,India,IN,IND,Mahārāshtra,,750000,1356110593
+Thiruvananthapuram,Thiruvananthapuram,8.5,76.8997,India,IN,IND,Kerala,admin,743691,1356024354
+Bhiwandi,Bhiwandi,19.3,73.0667,India,IN,IND,Mahārāshtra,,709665,1356763571
+Sahāranpur,Saharanpur,29.964,77.546,India,IN,IND,Uttar Pradesh,,705478,1356139858
+Warangal,Warangal,17.9756,79.6011,India,IN,IND,Telangana,,704570,1356851618
+Salem,Salem,11.65,78.1667,India,IN,IND,Tamil Nādu,,693236,1356567087
+Mālegaon,Malegaon,20.55,74.55,India,IN,IND,Mahārāshtra,,690844,1356113556
+Kochi,Kochi,9.9667,76.2833,India,IN,IND,Kerala,,677381,1356707865
+Gorakhpur,Gorakhpur,26.7611,83.3667,India,IN,IND,Uttar Pradesh,,673446,1356190221
+Shimoga,Shimoga,13.9167,75.5667,India,IN,IND,Karnātaka,,654055,1356016156
+Tiruppūr,Tiruppur,11.1075,77.3398,India,IN,IND,Tamil Nādu,,650000,1356539761
+Guntūr,Guntur,16.3,80.45,India,IN,IND,Andhra Pradesh,,647508,1356374905
+Raurkela,Raurkela,22.2492,84.8828,India,IN,IND,Odisha,,625831,1356096816
+Mangalore,Mangalore,12.8703,74.8806,India,IN,IND,Karnātaka,,623841,1356972351
+Nānded,Nanded,19.17,77.3,India,IN,IND,Mahārāshtra,,623708,1356722310
+Cuttack,Cuttack,20.465,85.8793,India,IN,IND,Odisha,,606007,1356872061
+Tumkūr,Tumkur,13.3422,77.1017,India,IN,IND,Karnātaka,,599078,1356033724
+Chānda,Chanda,19.95,79.3,India,IN,IND,Mahārāshtra,,595118,1356592607
+Dehra Dūn,Dehra Dun,30.318,78.029,India,IN,IND,Uttarakhand,admin,578420,1356970407
+Durgāpur,Durgapur,23.55,87.32,India,IN,IND,West Bengal,,566517,1356045686
+Āsansol,Asansol,23.6833,86.9667,India,IN,IND,West Bengal,,563917,1356093694
+Bhāvnagar,Bhavnagar,21.765,72.1369,India,IN,IND,Gujarāt,,554978,1356982375
+Amrāvati,Amravati,20.9333,77.75,India,IN,IND,Mahārāshtra,,549370,1356462099
+Nellore,Nellore,14.4333,79.9667,India,IN,IND,Andhra Pradesh,,547621,1356280972
+Ajmer,Ajmer,26.468,74.639,India,IN,IND,Rājasthān,,542321,1356058258
+Tinnevelly,Tinnevelly,8.7289,77.7081,India,IN,IND,Tamil Nādu,,542200,1356037155
+Bīkaner,Bikaner,28.0181,73.3169,India,IN,IND,Rājasthān,,529007,1356026593
+Agartala,Agartala,23.8333,91.2667,India,IN,IND,Tripura,admin,522613,1356148992
+Ujjain,Ujjain,23.1828,75.7772,India,IN,IND,Madhya Pradesh,,515215,1356050735
+Jhānsi,Jhansi,25.4486,78.5696,India,IN,IND,Uttar Pradesh,,507000,1356712664
+Ulhāsnagar,Ulhasnagar,19.2167,73.15,India,IN,IND,Mahārāshtra,,506098,1356375341
+Davangere,Davangere,14.4667,75.9167,India,IN,IND,Karnātaka,,503564,1356445061
+Jammu,Jammu,32.7333,74.85,India,IN,IND,Jammu and Kashmīr,,502197,1356491738
+Belgaum,Belgaum,15.8667,74.5,India,IN,IND,Karnātaka,,488157,1356390535
+Gulbarga,Gulbarga,17.3333,76.8333,India,IN,IND,Karnātaka,,483615,1356091187
+Jāmnagar,Jamnagar,22.47,70.07,India,IN,IND,Gujarāt,,479920,1356104995
+Dhūlia,Dhulia,20.9,74.7833,India,IN,IND,Mahārāshtra,,479073,1356224695
+Gaya,Gaya,24.75,85.0167,India,IN,IND,Bihār,,474093,1356045727
+Jalgaon,Jalgaon,21.0167,75.5667,India,IN,IND,Mahārāshtra,,460468,1356734842
+Kurnool,Kurnool,15.8222,78.035,India,IN,IND,Andhra Pradesh,,457633,1356058372
+Udaipur,Udaipur,24.5833,73.6833,India,IN,IND,Rājasthān,,451100,1356266094
+Bellary,Bellary,15.15,76.915,India,IN,IND,Karnātaka,,445388,1356209152
+Sāngli,Sangli,16.8667,74.5667,India,IN,IND,Mahārāshtra,,436639,1356921375
+Tuticorin,Tuticorin,8.7833,78.1333,India,IN,IND,Tamil Nādu,,436094,1356751023
+Calicut,Calicut,11.25,75.7667,India,IN,IND,Kerala,minor,431560,1356010401
+Akola,Akola,20.7333,77,India,IN,IND,Mahārāshtra,,425817,1356089496
+Bhāgalpur,Bhagalpur,25.25,87.0167,India,IN,IND,Bihār,,410210,1356760990
+Sīkar,Sikar,27.6119,75.1397,India,IN,IND,Rājasthān,,400000,1356163729
+Quilon,Quilon,8.8853,76.5864,India,IN,IND,Kerala,,397419,1356304110
+Bhīlwāra,Bhilwara,25.35,74.6333,India,IN,IND,Rājasthān,,389911,1356077831
+Nizāmābād,Nizamabad,18.6704,78.1,India,IN,IND,Telangana,,388505,1356242168
+Bhātpāra,Bhatpara,22.8667,88.4167,India,IN,IND,West Bengal,,386019,1356022456
+Kākināda,Kakinada,16.9333,82.2167,India,IN,IND,Andhra Pradesh,,384182,1356573609
+Parbhani,Parbhani,19.2704,76.76,India,IN,IND,Mahārāshtra,,378326,1356632842
+Pānihāti,Panihati,22.69,88.37,India,IN,IND,West Bengal,,377347,1356118632
+Lātūr,Latur,18.4004,76.57,India,IN,IND,Mahārāshtra,,374394,1356918265
+Rohtak,Rohtak,28.9,76.5667,India,IN,IND,Haryāna,,374292,1356162915
+Rājapālaiyam,Rajapalaiyam,9.4204,77.58,India,IN,IND,Tamil Nādu,,369991,1356110350
+Ahmadnagar,Ahmadnagar,19.0833,74.7333,India,IN,IND,Mahārāshtra,,350859,1356972679
+Cuddapah,Cuddapah,14.4667,78.8167,India,IN,IND,Andhra Pradesh,,344893,1356360140
+Rājahmundry,Rajahmundry,16.9833,81.7833,India,IN,IND,Andhra Pradesh,,341831,1356831716
+Alwar,Alwar,27.5667,76.6167,India,IN,IND,Rājasthān,,341422,1356570855
+Muzaffarpur,Muzaffarpur,26.12,85.3833,India,IN,IND,Bihār,,333200,1356897425
+Mathura,Mathura,27.5035,77.6722,India,IN,IND,Uttar Pradesh,,330511,1356066081
+Kāmārhāti,Kamarhati,22.67,88.37,India,IN,IND,West Bengal,,330211,1356676559
+Patiāla,Patiala,30.3204,76.385,India,IN,IND,Punjab,,329224,1356458416
+Saugor,Saugor,23.83,78.71,India,IN,IND,Madhya Pradesh,,328240,1356781800
+Bijāpur,Bijapur,16.8244,75.7154,India,IN,IND,Karnātaka,,327427,1356499139
+Brahmapur,Brahmapur,19.32,84.8,India,IN,IND,Odisha,,324726,1356569354
+Shāhjānpur,Shahjanpur,27.8804,79.905,India,IN,IND,Uttar Pradesh,,320434,1356415439
+Jūnāgadh,Junagadh,21.52,70.47,India,IN,IND,Gujarāt,,320250,1356057451
+Trichūr,Trichur,10.52,76.21,India,IN,IND,Kerala,,315596,1356589298
+Barddhamān,Barddhaman,23.25,87.85,India,IN,IND,West Bengal,,314265,1356062166
+Sambalpur,Sambalpur,21.4704,83.9701,India,IN,IND,Odisha,,310852,1356772339
+Purnea,Purnea,25.78,87.47,India,IN,IND,Bihār,,310817,1356486511
+Hisar,Hisar,29.1489,75.7367,India,IN,IND,Haryāna,,307024,1356004790
+Fīrozābād,Firozabad,27.15,78.3949,India,IN,IND,Uttar Pradesh,,306409,1356031978
+Rāmpur,Rampur,28.788,79.019,India,IN,IND,Uttar Pradesh,,296418,1356666569
+Āīzawl,Aizawl,23.7333,92.7167,India,IN,IND,Mizoram,admin,293416,1356342768
+Bāli,Bali,22.65,88.34,India,IN,IND,West Bengal,,293373,1356113138
+Pānīpat,Panipat,29.3833,76.9667,India,IN,IND,Haryāna,,292808,1356526780
+Karīmnagar,Karimnagar,18.4333,79.15,India,IN,IND,Telangana,,289821,1356578937
+Bhuj,Bhuj,23.2504,69.81,India,IN,IND,Gujarāt,,289429,1356806356
+Ichalkaranji,Ichalkaranji,16.7,74.47,India,IN,IND,Mahārāshtra,,287570,1356651502
+Hospet,Hospet,15.2667,76.4,India,IN,IND,Karnātaka,,286007,1356241463
+Bhatinda,Bhatinda,30.2133,74.9519,India,IN,IND,Punjab,,285813,1356343054
+Sannai,Sannai,24.16,80.83,India,IN,IND,Madhya Pradesh,,283004,1356009968
+Bārāsat,Barasat,22.72,88.48,India,IN,IND,West Bengal,,278435,1356644721
+Ratlām,Ratlam,23.3167,75.0667,India,IN,IND,Madhya Pradesh,,273892,1356241663
+Handwāra,Handwara,34.4,74.28,India,IN,IND,Jammu and Kashmīr,,269311,1356080179
+Drug,Drug,21.19,81.28,India,IN,IND,Chhattīsgarh,,268806,1356910418
+Anantapur,Anantapur,14.6833,77.6,India,IN,IND,Andhra Pradesh,,267161,1356296545
+Imphāl,Imphal,24.82,93.95,India,IN,IND,Manipur,admin,264986,1356107172
+Etāwah,Etawah,26.7855,79.015,India,IN,IND,Uttar Pradesh,,257448,1356241312
+Rāichūr,Raichur,16.2,77.3667,India,IN,IND,Karnātaka,,255240,1356217280
+Bharatpur,Bharatpur,27.2172,77.49,India,IN,IND,Rājasthān,,252342,1356168278
+Begusarai,Begusarai,25.42,86.13,India,IN,IND,Bihār,,252008,1356619346
+Sonīpat,Sonipat,28.9958,77.0114,India,IN,IND,Haryāna,,250521,1356648808
+New Delhi,New Delhi,28.6139,77.209,India,IN,IND,Delhi,primary,249998,1356215164
+Rāmgundam,Ramgundam,18.8,79.45,India,IN,IND,Telangana,,242979,1356590864
+Hāpur,Hapur,28.7437,77.7628,India,IN,IND,Uttar Pradesh,,242920,1356820012
+Uluberiya,Uluberiya,22.47,88.11,India,IN,IND,West Bengal,,235345,1356354610
+Porbandar,Porbandar,21.6425,69.6047,India,IN,IND,Gujarāt,,234684,1356634492
+Pāli,Pali,25.7725,73.3233,India,IN,IND,Rājasthān,,229956,1356212172
+Vizianagaram,Vizianagaram,18.1167,83.4167,India,IN,IND,Andhra Pradesh,,228720,1356212761
+Puducherry,Puducherry,11.93,79.83,India,IN,IND,Puducherry,admin,227411,1356368903
+Nadiād,Nadiad,22.7,72.87,India,IN,IND,Gujarāt,,225132,1356992385
+Karnāl,Karnal,29.6804,76.97,India,IN,IND,Haryāna,,225049,1356145204
+Nāgercoil,Nagercoil,8.17,77.43,India,IN,IND,Tamil Nādu,,224329,1356051733
+Tanjore,Tanjore,10.8,79.15,India,IN,IND,Tamil Nādu,,222943,1356599194
+Sambhal,Sambhal,28.58,78.55,India,IN,IND,Uttar Pradesh,,220813,1356376216
+Shiliguri,Shiliguri,26.72,88.42,India,IN,IND,West Bengal,,218718,1356724691
+Naihāti,Naihati,22.9,88.42,India,IN,IND,West Bengal,,217900,1356715598
+Secunderābād,Secunderabad,17.45,78.5,India,IN,IND,Telangana,,213698,1356779437
+Kharagpur,Kharagpur,22.3302,87.3237,India,IN,IND,West Bengal,,207604,1356305803
+Dindigul,Dindigul,10.369,77.9804,India,IN,IND,Tamil Nādu,,207327,1356106153
+Shimla,Shimla,31.1033,77.1722,India,IN,IND,Himāchal Pradesh,admin,206575,1356962932
+Ingrāj Bāzār,Ingraj Bazar,25,88.15,India,IN,IND,West Bengal,,205521,1356142829
+Ongole,Ongole,15.5,80.05,India,IN,IND,Andhra Pradesh,,204746,1356385136
+Ellore,Ellore,16.7117,81.1031,India,IN,IND,Andhra Pradesh,,203780,1356931882
+Puri,Puri,19.8,85.8167,India,IN,IND,Odisha,,201026,1356558409
+Haldia,Haldia,22.03,88.06,India,IN,IND,West Bengal,,200827,1356491171
+Bulandshahr,Bulandshahr,28.4,77.85,India,IN,IND,Uttar Pradesh,,198612,1356067648
+Chakradharpur,Chakradharpur,22.7,85.63,India,IN,IND,Jharkhand,,197953,1356082013
+Bhiwāni,Bhiwani,28.7833,76.1333,India,IN,IND,Haryāna,,197662,1356780092
+Gurgaon,Gurgaon,28.45,77.02,India,IN,IND,Haryāna,,197340,1356836043
+Burhānpur,Burhanpur,21.3,76.2267,India,IN,IND,Madhya Pradesh,,197233,1356857493
+Khammam,Khammam,17.25,80.15,India,IN,IND,Telangana,,196283,1356007170
+Madhyamgram,Madhyamgram,22.7,88.45,India,IN,IND,West Bengal,,196127,1356501701
+Ghāndīnagar,Ghandinagar,23.22,72.68,India,IN,IND,Gujarāt,admin,195891,1356140914
+Baharampur,Baharampur,24.1,88.25,India,IN,IND,West Bengal,,195223,1356612685
+Mahbūbnagar,Mahbubnagar,16.7333,77.9833,India,IN,IND,Telangana,,190400,1356014528
+Nandyāl,Nandyal,15.5204,78.48,India,IN,IND,Andhra Pradesh,,188654,1356671879
+Mahesāna,Mahesana,23.6,72.4,India,IN,IND,Gujarāt,,184991,1356719082
+Rāiganj,Raiganj,25.6167,88.1167,India,IN,IND,West Bengal,,183612,1356159126
+Batāla,Batala,31.8186,75.2028,India,IN,IND,Punjab,,183314,1356786750
+Bhusāval,Bhusaval,21.02,75.83,India,IN,IND,Mahārāshtra,,183001,1356338789
+Bahraigh,Bahraigh,27.5742,81.5958,India,IN,IND,Uttar Pradesh,,182218,1356833304
+Shrīrāmpur,Shrirampur,22.75,88.34,India,IN,IND,West Bengal,,181842,1356021505
+Tonk,Tonk,26.1505,75.79,India,IN,IND,Rājasthān,,181734,1356991408
+Sirsa,Sirsa,29.4904,75.03,India,IN,IND,Haryāna,,181639,1356966764
+Jaunpur,Jaunpur,25.7333,82.6833,India,IN,IND,Uttar Pradesh,,180362,1356646586
+Madanapalle,Madanapalle,13.55,78.5,India,IN,IND,Andhra Pradesh,,180180,1356232508
+Hugli,Hugli,22.9,88.39,India,IN,IND,West Bengal,,179931,1356109548
+Vellore,Vellore,12.9204,79.15,India,IN,IND,Tamil Nādu,,177081,1356977661
+Alleppey,Alleppey,9.5004,76.37,India,IN,IND,Kerala,,176783,1356293762
+Cuddalore,Cuddalore,11.75,79.75,India,IN,IND,Tamil Nādu,,173676,1356544008
+Deo,Deo,24.6561,84.4356,India,IN,IND,Bihār,,173216,1356131438
+Chīrāla,Chirala,15.82,80.35,India,IN,IND,Andhra Pradesh,,172826,1356100300
+Bīdar,Bidar,17.9,77.55,India,IN,IND,Karnātaka,,172298,1356933453
+Machilīpatnam,Machilipatnam,16.1875,81.1389,India,IN,IND,Andhra Pradesh,,169892,1356067784
+Medinīpur,Medinipur,22.4333,87.3333,India,IN,IND,West Bengal,,169264,1356432910
+Bāramūla,Baramula,34.2,74.34,India,IN,IND,Jammu and Kashmīr,,167986,1356671176
+Chandannagar,Chandannagar,22.8667,88.3833,India,IN,IND,West Bengal,,166867,1356174802
+Fatehpur,Fatehpur,25.8804,80.8,India,IN,IND,Uttar Pradesh,,166480,1356059135
+Udipi,Udipi,13.3322,74.7461,India,IN,IND,Karnātaka,,165401,1356145399
+Tenāli,Tenali,16.243,80.64,India,IN,IND,Andhra Pradesh,,164937,1356831482
+Sitalpur,Sitalpur,27.63,80.75,India,IN,IND,Uttar Pradesh,,164435,1356838415
+Conjeeveram,Conjeeveram,12.8308,79.7078,India,IN,IND,Tamil Nādu,,164384,1356148941
+Proddatūr,Proddatur,14.73,78.55,India,IN,IND,Andhra Pradesh,,163970,1356025913
+Navsāri,Navsari,20.8504,72.92,India,IN,IND,Gujarāt,,163000,1356120513
+Godhra,Godhra,22.7772,73.6203,India,IN,IND,Gujarāt,,161925,1356386046
+Budaun,Budaun,28.03,79.09,India,IN,IND,Uttar Pradesh,,161555,1356639213
+Chittoor,Chittoor,13.2,79.1167,India,IN,IND,Andhra Pradesh,,160722,1356026391
+Bharūch,Bharuch,21.6948,72.9805,India,IN,IND,Gujarāt,,158253,1356981799
+Harīpur,Haripur,31.52,75.98,India,IN,IND,Punjab,,158142,1356141115
+Saharsa,Saharsa,25.88,86.6,India,IN,IND,Bihār,,156540,1356492911
+Vidisha,Vidisha,23.5239,77.8061,India,IN,IND,Madhya Pradesh,,155959,1356299932
+Pathānkot,Pathankot,32.2689,75.6497,India,IN,IND,Punjab,,155909,1356878237
+Nalgonda,Nalgonda,17.05,79.27,India,IN,IND,Telangana,,154326,1356414359
+Dibrugarh,Dibrugarh,27.4833,95,India,IN,IND,Assam,,154019,1356100193
+Verāval,Veraval,20.9,70.37,India,IN,IND,Gujarāt,,153696,1356346826
+Bālurghāt,Balurghat,25.2167,88.7667,India,IN,IND,West Bengal,,153279,1356496150
+Krishnanagar,Krishnanagar,23.4,88.5,India,IN,IND,West Bengal,,153062,1356128689
+Fyzābād,Fyzabad,26.7504,82.17,India,IN,IND,Uttar Pradesh,,153047,1356032860
+Bārākpur,Barakpur,22.75,88.3667,India,IN,IND,West Bengal,,152783,1356768708
+Silchar,Silchar,24.7904,92.79,India,IN,IND,Assam,,152393,1356102467
+Shāntipur,Shantipur,23.25,88.43,India,IN,IND,West Bengal,,151777,1356584320
+Hindupur,Hindupur,13.83,77.49,India,IN,IND,Andhra Pradesh,,151677,1356805611
+Beāwar,Beawar,26.1011,74.3203,India,IN,IND,Rājasthān,,151472,1356028963
+Erode,Erode,11.3428,77.7274,India,IN,IND,Tamil Nādu,,151184,1356040695
+Hābra,Habra,22.83,88.63,India,IN,IND,West Bengal,,147221,1356091822
+Ambāla,Ambala,30.3786,76.7725,India,IN,IND,Haryāna,,146787,1356947216
+Mauli,Mauli,30.7194,76.7181,India,IN,IND,Punjab,,146213,1356181198
+Etah,Etah,27.63,78.67,India,IN,IND,Uttar Pradesh,,145601,1356096916
+Kolār,Kolar,13.1333,78.1333,India,IN,IND,Karnātaka,,144625,1356953848
+Shillong,Shillong,25.5744,91.8789,India,IN,IND,Meghālaya,admin,143229,1356533936
+Bhīmavaram,Bhimavaram,16.5333,81.5333,India,IN,IND,Andhra Pradesh,,142184,1356195520
+Mandsaur,Mandsaur,24.03,75.08,India,IN,IND,Madhya Pradesh,,141667,1356467529
+Kumbakonam,Kumbakonam,10.9805,79.4,India,IN,IND,Tamil Nādu,,139264,1356960436
+Tiruvannāmalai,Tiruvannamalai,12.2604,79.1,India,IN,IND,Tamil Nādu,,138243,1356561184
+Chicacole,Chicacole,18.3,83.9,India,IN,IND,Andhra Pradesh,,137944,1356141471
+Bānkura,Bankura,23.25,87.0667,India,IN,IND,West Bengal,,137386,1356582158
+Mandya,Mandya,12.5242,76.8958,India,IN,IND,Karnātaka,,137358,1356039212
+Hassan,Hassan,13.005,76.1028,India,IN,IND,Karnātaka,,133436,1356007455
+Gondiā,Gondia,21.45,80.2,India,IN,IND,Mahārāshtra,,132821,1356105759
+Pīlibhīt,Pilibhit,28.6333,79.7667,India,IN,IND,Uttar Pradesh,,131008,1356147005
+Pālghāt,Palghat,10.7792,76.6547,India,IN,IND,Kerala,,130955,1356115164
+Abohar,Abohar,30.1204,74.29,India,IN,IND,Punjab,,130603,1356846795
+Pālakollu,Palakollu,16.5333,81.7333,India,IN,IND,Andhra Pradesh,,129717,1356365783
+Hanumāngarh,Hanumangarh,29.5833,74.3167,India,IN,IND,Rājasthān,,129654,1356133715
+Kānchrāpāra,Kanchrapara,22.97,88.43,India,IN,IND,West Bengal,,129576,1356022687
+Hāthras,Hathras,27.6,78.05,India,IN,IND,Uttar Pradesh,,126882,1356072147
+Guntakal,Guntakal,15.17,77.38,India,IN,IND,Andhra Pradesh,,126270,1356140724
+Navadwīp,Navadwip,23.4088,88.3657,India,IN,IND,West Bengal,,125543,1356449184
+Basīrhat,Basirhat,22.6572,88.8942,India,IN,IND,West Bengal,,125254,1356109985
+Hālīsahar,Halisahar,22.95,88.42,India,IN,IND,West Bengal,,124939,1356242644
+Rishra,Rishra,22.71,88.35,India,IN,IND,West Bengal,,124577,1356339732
+Dharmavaram,Dharmavaram,14.4142,77.715,India,IN,IND,Andhra Pradesh,,121874,1356879569
+Baidyabāti,Baidyabati,22.79,88.32,India,IN,IND,West Bengal,,121110,1356079081
+Puruliya,Puruliya,23.3333,86.3667,India,IN,IND,West Bengal,,121067,1356350196
+Ghazīpur,Ghazipur,25.5833,83.5667,India,IN,IND,Uttar Pradesh,,121020,1356773744
+Darjeeling,Darjeeling,27.0375,88.2631,India,IN,IND,West Bengal,,118805,1356267176
+Sopur,Sopur,34.3,74.47,India,IN,IND,Jammu and Kashmīr,,118608,1356978065
+Gudivāda,Gudivada,16.43,80.99,India,IN,IND,Andhra Pradesh,,118167,1356068699
+Adilābād,Adilabad,19.6667,78.5333,India,IN,IND,Telangana,,117167,1356085840
+Yavatmāl,Yavatmal,20.4,78.1333,India,IN,IND,Mahārāshtra,,116551,1356201218
+Titāgarh,Titagarh,22.74,88.37,India,IN,IND,West Bengal,,116541,1356590173
+Chittaurgarh,Chittaurgarh,24.8894,74.6239,India,IN,IND,Rājasthān,,116406,1356110002
+Narasaraopet,Narasaraopet,16.236,80.054,India,IN,IND,Andhra Pradesh,,116250,1356923354
+Dam Dam,Dam Dam,22.62,88.42,India,IN,IND,West Bengal,,114786,1356051452
+Vālpārai,Valparai,10.3204,76.97,India,IN,IND,Tamil Nādu,,114308,1356065507
+Siddipet,Siddipet,18.1,78.85,India,IN,IND,Telangana,,114091,1356671720
+Osmānābād,Osmanabad,18.1667,76.05,India,IN,IND,Mahārāshtra,,112085,1356005329
+Champdani,Champdani,22.8,88.37,India,IN,IND,West Bengal,,111251,1356132208
+Bangaon,Bangaon,23.07,88.82,India,IN,IND,West Bengal,,108864,1356624441
+Islāmābād,Islamabad,33.73,75.15,India,IN,IND,Jammu and Kashmīr,,108505,1356324247
+Khardah,Khardah,22.72,88.38,India,IN,IND,West Bengal,,108496,1356765227
+Tādpatri,Tadpatri,14.9097,78.0083,India,IN,IND,Andhra Pradesh,,108171,1356318314
+Jalpāiguri,Jalpaiguri,26.5167,88.7333,India,IN,IND,West Bengal,,107341,1356763479
+Suriāpet,Suriapet,17.15,79.6167,India,IN,IND,Telangana,,106805,1356067301
+Tādepallegūdem,Tadepallegudem,16.8333,81.5,India,IN,IND,Andhra Pradesh,,104032,1356576541
+Bānsbāria,Bansbaria,22.97,88.4,India,IN,IND,West Bengal,,103920,1356897672
+Būndi,Bundi,25.4383,75.6372,India,IN,IND,Rājasthān,,103286,1356402465
+Negapatam,Negapatam,10.7667,79.8333,India,IN,IND,Tamil Nādu,,102905,1356879770
+Bhadreswar,Bhadreswar,22.82,88.35,India,IN,IND,West Bengal,,101477,1356320019
+Chilakalūrupet,Chilakalurupet,16.0892,80.1672,India,IN,IND,Andhra Pradesh,,101398,1356065865
+Port Blair,Port Blair,11.6667,92.75,India,IN,IND,Andaman and Nicobar Islands,admin,100608,1356161713
+Kalyani,Kalyani,22.975,88.4344,India,IN,IND,West Bengal,,100575,1356108133
+Gangtok,Gangtok,27.33,88.62,India,IN,IND,Sikkim,admin,100286,1356689564
+Tinsukia,Tinsukia,27.4892,95.36,India,IN,IND,Assam,,99507,1356391413
+Kohīma,Kohima,25.6667,94.1194,India,IN,IND,Nāgāland,admin,99039,1356332206
+Khambhāt,Khambhat,22.3131,72.6194,India,IN,IND,Gujarāt,,98700,1356354348
+Aurangābād,Aurangabad,24.7704,84.38,India,IN,IND,Bihār,,95929,1356920493
+Dhuliān,Dhulian,24.68,87.97,India,IN,IND,West Bengal,,95706,1356241829
+Chākdaha,Chakdaha,23.08,88.52,India,IN,IND,West Bengal,,95203,1356089316
+Marmagao,Marmagao,15.402,73.8,India,IN,IND,Goa,,94393,1356764529
+Contai,Contai,21.78,87.75,India,IN,IND,West Bengal,,92226,1356643000
+Rāyachoti,Rayachoti,14.05,78.75,India,IN,IND,Andhra Pradesh,,91234,1356147853
+Kāvali,Kavali,14.9123,79.9944,India,IN,IND,Andhra Pradesh,,90099,1356816305
+Mancherāl,Mancheral,18.8679,79.4639,India,IN,IND,Telangana,,89935,1356990383
+Kadiri,Kadiri,14.12,78.17,India,IN,IND,Andhra Pradesh,,89429,1356308559
+Kairāna,Kairana,29.3953,77.2053,India,IN,IND,Uttar Pradesh,,89000,1356768694
+Ootacamund,Ootacamund,11.4086,76.6939,India,IN,IND,Tamil Nādu,,88430,1356809681
+Jangipur,Jangipur,24.47,88.07,India,IN,IND,West Bengal,,88165,1356655968
+Farīdkot,Faridkot,30.67,74.76,India,IN,IND,Punjab,,87695,1356743545
+Madgaon,Madgaon,15.2719,73.9583,India,IN,IND,Goa,,87650,1356337752
+Anakāpalle,Anakapalle,17.68,83.02,India,IN,IND,Andhra Pradesh,,86519,1356285975
+Garulia,Garulia,22.82,88.37,India,IN,IND,West Bengal,,85336,1356885496
+Sirsilla,Sirsilla,18.38,78.83,India,IN,IND,Telangana,,83186,1356360144
+Kātoya,Katoya,23.65,88.13,India,IN,IND,West Bengal,,81615,1356487359
+Kāmāreddipet,Kamareddipet,18.3167,78.35,India,IN,IND,Telangana,,80315,1356010343
+Bolpur,Bolpur,23.67,87.72,India,IN,IND,West Bengal,,80210,1356123985
+Gumlā,Gumla,23.0444,84.5417,India,IN,IND,Jharkhand,,80129,1356058585
+Simdega,Simdega,22.62,84.52,India,IN,IND,Jharkhand,,80129,1356073158
+Kottagūdem,Kottagudem,17.55,80.63,India,IN,IND,Telangana,,79819,1356124457
+Tanuku,Tanuku,16.75,81.7,India,IN,IND,Andhra Pradesh,,77962,1356546052
+Koch Bihār,Koch Bihar,26.3167,89.4333,India,IN,IND,West Bengal,,77935,1356121274
+Bodhan,Bodhan,18.67,77.9,India,IN,IND,Telangana,,77573,1356506985
+Karūr,Karur,10.9504,78.0833,India,IN,IND,Tamil Nādu,,76915,1356837900
+Baj Baj,Baj Baj,22.4828,88.1818,India,IN,IND,West Bengal,,76837,1356102140
+Mangalagiri,Mangalagiri,16.43,80.55,India,IN,IND,Andhra Pradesh,,73613,1356861607
+Mārkāpur,Markapur,15.735,79.27,India,IN,IND,Andhra Pradesh,,71092,1356101278
+Malaut,Malaut,30.19,74.499,India,IN,IND,Punjab,,70958,1356603442
+Bāpatla,Bapatla,15.8889,80.47,India,IN,IND,Andhra Pradesh,,70777,1356828422
+Badvel,Badvel,14.75,79.05,India,IN,IND,Andhra Pradesh,,70626,1356145368
+Basavakalyān,Basavakalyan,17.87,76.95,India,IN,IND,Karnātaka,,69717,1356923425
+Jorhāt,Jorhat,26.75,94.2167,India,IN,IND,Assam,,69033,1356638741
+Siuri,Siuri,23.9167,87.5333,India,IN,IND,West Bengal,,67864,1356042495
+Bishnupur,Bishnupur,23.0833,87.3167,India,IN,IND,West Bengal,,67783,1356443025
+Beypore,Beypore,11.18,75.82,India,IN,IND,Kerala,,66883,1356592326
+Koratla,Koratla,18.82,78.72,India,IN,IND,Telangana,,66504,1356581279
+Pulivendla,Pulivendla,14.4167,78.2333,India,IN,IND,Andhra Pradesh,,65706,1356099701
+Jaisalmer,Jaisalmer,26.9167,70.9167,India,IN,IND,Rājasthān,,65471,1356575402
+Tamlūk,Tamluk,22.3,87.9167,India,IN,IND,West Bengal,,65306,1356893735
+Alīpur Duār,Alipur Duar,26.5,89.52,India,IN,IND,West Bengal,,65232,1356472105
+Kodād,Kodad,16.9978,79.9653,India,IN,IND,Telangana,,64234,1356852582
+Tādepalle,Tadepalle,16.4667,80.6,India,IN,IND,Andhra Pradesh,,64149,1356511543
+Armūr,Armur,18.79,78.29,India,IN,IND,Telangana,,64023,1356043277
+Bankra,Bankra,22.63,88.3,India,IN,IND,West Bengal,,63957,1356096653
+Nawalgarh,Nawalgarh,27.85,75.27,India,IN,IND,Rājasthān,,63948,1356085018
+Jatani,Jatani,20.17,85.7,India,IN,IND,Odisha,,63697,1356087327
+Gadwāl,Gadwal,16.23,77.8,India,IN,IND,Telangana,,63177,1356741221
+Nagari,Nagari,13.33,79.58,India,IN,IND,Andhra Pradesh,,62253,1356993418
+Jhārgrām,Jhargram,22.45,86.98,India,IN,IND,West Bengal,,61712,1356046912
+Wanparti,Wanparti,16.361,78.0627,India,IN,IND,Telangana,,60949,1356934970
+Chāmrājnagar,Chamrajnagar,11.9236,76.94,India,IN,IND,Karnātaka,,60810,1356007832
+Chandralapādu,Chandralapadu,16.715,80.2089,India,IN,IND,Andhra Pradesh,,59943,1356193821
+Ponnūru,Ponnuru,16.0667,80.5667,India,IN,IND,Andhra Pradesh,,59913,1356219968
+Vinukonda,Vinukonda,16.05,79.75,India,IN,IND,Andhra Pradesh,,59725,1356819642
+Itānagar,Itanagar,27.1,93.62,India,IN,IND,Arunāchal Pradesh,admin,59490,1356023817
+Tezpur,Tezpur,26.6338,92.8,India,IN,IND,Assam,,58851,1356299437
+Narasapur,Narasapur,16.4333,81.6833,India,IN,IND,Andhra Pradesh,,58770,1356412895
+Pānskura,Panskura,22.42,87.7,India,IN,IND,West Bengal,,57932,1356744342
+Rāmpur Hat,Rampur Hat,24.17,87.78,India,IN,IND,West Bengal,,57833,1356074159
+Lonāvale,Lonavale,18.7481,73.4072,India,IN,IND,Mahārāshtra,,57698,1356087772
+Kothāpet,Kothapet,19.3333,79.4833,India,IN,IND,Telangana,,57583,1356072921
+Mācherla,Macherla,16.48,79.43,India,IN,IND,Andhra Pradesh,,57290,1356348515
+Kandukūr,Kandukur,15.2165,79.9042,India,IN,IND,Andhra Pradesh,,57246,1356179414
+Sāmalkot,Samalkot,17.0531,82.1695,India,IN,IND,Andhra Pradesh,,56864,1356044530
+Bobbili,Bobbili,18.5729,83.3587,India,IN,IND,Andhra Pradesh,,56819,1356820046
+Kālna,Kalna,23.22,88.37,India,IN,IND,West Bengal,,56722,1356051768
+Sattenapalle,Sattenapalle,16.3962,80.1497,India,IN,IND,Andhra Pradesh,,56721,1356153330
+Vrindāvan,Vrindavan,27.5728,77.6933,India,IN,IND,Uttar Pradesh,,56618,1356168243
+Gangārāmpur,Gangarampur,25.4,88.52,India,IN,IND,West Bengal,,56217,1356994707
+Mandapeta,Mandapeta,16.87,81.93,India,IN,IND,Andhra Pradesh,,56063,1356648879
+Pithorāgarh,Pithoragarh,29.58,80.22,India,IN,IND,Uttarakhand,,56044,1356198469
+Belampalli,Belampalli,19.0558,79.4931,India,IN,IND,Telangana,,55841,1356972240
+Kāndi,Kandi,23.95,88.03,India,IN,IND,West Bengal,,55632,1356979141
+Bhīmunipatnam,Bhimunipatnam,17.8864,83.4471,India,IN,IND,Andhra Pradesh,,55082,1356889289
+Nāndod,Nandod,21.8704,73.5026,India,IN,IND,Gujarāt,,54923,1356800561
+Pithāpuram,Pithapuram,17.1167,82.2667,India,IN,IND,Andhra Pradesh,,54859,1356440541
+Punganūru,Punganuru,13.3667,78.5833,India,IN,IND,Andhra Pradesh,,54746,1356796945
+Mūndka,Mundka,28.6794,77.0284,India,IN,IND,Delhi,,54541,1356773697
+Islāmpur,Islampur,26.27,88.2,India,IN,IND,West Bengal,,54340,1356028148
+Puttūr,Puttur,13.45,79.55,India,IN,IND,Andhra Pradesh,,54092,1356396930
+Jalor,Jalor,25.35,72.6167,India,IN,IND,Rājasthān,,54081,1356488284
+Palmaner,Palmaner,13.2,78.75,India,IN,IND,Andhra Pradesh,,54035,1356813856
+Dholka,Dholka,22.72,72.47,India,IN,IND,Gujarāt,,53792,1356709185
+Kāliyāganj,Kaliyaganj,25.63,88.32,India,IN,IND,West Bengal,,53530,1356116477
+Jaggayyapeta,Jaggayyapeta,16.892,80.0976,India,IN,IND,Andhra Pradesh,,53530,1356537421
+Tuni,Tuni,17.35,82.55,India,IN,IND,Andhra Pradesh,,53425,1356073049
+Amalāpuram,Amalapuram,16.5833,82.0167,India,IN,IND,Andhra Pradesh,,53231,1356997622
+Vikārābād,Vikarabad,17.33,77.9,India,IN,IND,Telangana,,53143,1356904767
+Bāruipur,Baruipur,22.3654,88.4325,India,IN,IND,West Bengal,,53128,1356275520
+Venkatagiri,Venkatagiri,13.9667,79.5833,India,IN,IND,Andhra Pradesh,,52688,1356644043
+Sihor,Sihor,21.7,71.97,India,IN,IND,Gujarāt,,52603,1356675162
+Badūria,Baduria,22.74,88.79,India,IN,IND,West Bengal,,52493,1356034082
+Jangaon,Jangaon,17.72,79.18,India,IN,IND,Telangana,,52394,1356403400
